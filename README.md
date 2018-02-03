@@ -1,0 +1,2 @@
+# FUC
+Frequently Use Code
